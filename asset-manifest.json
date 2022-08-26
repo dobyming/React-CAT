@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-CAT/static/css/main.5616d087.css",
+    "main.js": "/React-CAT/static/js/main.1b182c86.js",
+    "static/js/787.44ce1ab4.chunk.js": "/React-CAT/static/js/787.44ce1ab4.chunk.js",
+    "static/media/logo.svg": "/React-CAT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-CAT/index.html",
+    "main.5616d087.css.map": "/React-CAT/static/css/main.5616d087.css.map",
+    "main.1b182c86.js.map": "/React-CAT/static/js/main.1b182c86.js.map",
+    "787.44ce1ab4.chunk.js.map": "/React-CAT/static/js/787.44ce1ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5616d087.css",
+    "static/js/main.1b182c86.js"
+  ]
+}
